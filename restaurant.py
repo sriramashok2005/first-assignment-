@@ -1,4 +1,4 @@
-#Restaurant
+#Restaurant billing system
 
 #Food Menu
 def food_menu():
